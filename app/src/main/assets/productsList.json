@@ -1,0 +1,123 @@
+{
+  "productsList": [
+    {
+      "id": 1,
+      "name": "Black tea",
+      "price": 3,
+      "category": "Drinks",
+      "description": "A strong, aromatic black tea."
+    },
+    {
+      "id": 2,
+      "name": "Green tea",
+      "price": 3,
+      "category": "Drinks",
+      "description": "A refreshing green tea with a light taste."
+    },
+    {
+      "id": 3,
+      "name": "Espresso",
+      "price": 5,
+      "category": "Drinks",
+      "description": "A strong and bold espresso shot."
+    },
+    {
+      "id": 4,
+      "name": "Cappuccino",
+      "price": 8,
+      "category": "Drinks",
+      "description": "Creamy cappuccino with steamed milk."
+    },
+    {
+      "id": 5,
+      "name": "Latte",
+      "price": 8,
+      "category": "Drinks",
+      "description": "Smooth latte with a hint of sweetness."
+    },
+    {
+      "id": 6,
+      "name": "Mocha",
+      "price": 10,
+      "category": "Drinks",
+      "description": "Chocolatey mocha with espresso and milk."
+    },
+    {
+      "id": 7,
+      "name": "Boeuf bourguignon",
+      "price": 15,
+      "category": "Food",
+      "description": "A rich, hearty beef stew with red wine."
+    },
+    {
+      "id": 8,
+      "name": "Bouillabaisse",
+      "price": 20,
+      "category": "Food",
+      "description": "A classic French seafood stew."
+    },
+    {
+      "id": 9,
+      "name": "Lasagna",
+      "price": 15,
+      "category": "Food",
+      "description": "Layered pasta with meat, cheese, and sauce."
+    },
+    {
+      "id": 10,
+      "name": "Onion soup",
+      "price": 12,
+      "category": "Food",
+      "description": "Savory soup topped with melted cheese."
+    },
+    {
+      "id": 11,
+      "name": "Salmon en papillote",
+      "price": 25,
+      "category": "Food",
+      "description": "Salmon baked in parchment with herbs."
+    },
+    {
+      "id": 12,
+      "name": "Quiche Lorraine",
+      "price": 17,
+      "category": "Dessert",
+      "description": "A rich, creamy quiche with bacon and cheese."
+    },
+    {
+      "id": 13,
+      "name": "Custard tart",
+      "price": 14,
+      "category": "Dessert",
+      "description": "A sweet, creamy custard tart."
+    },
+    {
+      "id": 14,
+      "name": "Croissant",
+      "price": 7,
+      "category": "Dessert",
+      "description": "Flaky and buttery croissant."
+    },
+    {
+      "id": 15,
+      "name": "Greek Salad",
+      "price": 12,
+      "category": "Side",
+      "description": "The famous Greek salad of crispy lettuce, peppers, olives and our Chicago..."
+    },
+    {
+      "id": 16,
+      "name": "Bruschetta",
+      "price": 6,
+      "category": "Side",
+      "description": "Our Bruschetta is made from grilled bread that has been smeared with garlic..."
+    },
+    {
+      "id": 17,
+      "name": "Lemon Dessert",
+      "price": 9,
+      "category": "Dessert",
+      "description": "This comes straight from grandma's recipe book, every last ingredient has..."
+    }
+  ]
+}
