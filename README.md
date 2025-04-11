@@ -36,7 +36,7 @@ The Little Lemon App is an Android application designed to provide a seamless on
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/little-lemon-app.git
+    git clone https://github.com/3lis0/Little-Lemon-App.git
     ```
 
 2. Open the project in Android Studio.
