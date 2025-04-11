@@ -2,6 +2,8 @@
 
 The Little Lemon App is an Android application designed to provide a seamless online ordering experience for customers of the Little Lemon restaurant. It allows users to browse the menu, customize their orders, and place orders for pickup or delivery.
 
+![App UI](app/src/main/res/drawable/App%20ui.jpg)
+
 ## Features
 
 - **Browse Menu:** Users can explore the restaurant's menu with detailed descriptions, images, and prices for each dish.
